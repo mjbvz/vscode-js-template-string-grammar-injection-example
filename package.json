@@ -20,7 +20,7 @@
   "contributes": {
     "grammars": [
       {
-        "scopeName": "embedded.html.string.template",
+        "scopeName": "meta.embedded.html.string.template",
         "path": "./syntaxes/injection.json",
         "injectTo": [
           "source.js",

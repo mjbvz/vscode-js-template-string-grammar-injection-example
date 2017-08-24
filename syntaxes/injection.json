@@ -13,6 +13,7 @@
 		"html-tagged-template": {
 			"begin": "(?<=html`)",
 			"end": "(?=`)",
+			"contentName": "meta.embedded.html",			
 			"patterns": [
 				{
 					"include": "#html-template-body"
@@ -22,6 +23,7 @@
 		"leading-html-element-template": {
 			"begin": "(?=<)",
 			"end": "(?=`)",
+			"contentName": "meta.embedded.html",
 			"patterns": [
 				{
 					"include": "#html-template-body"
@@ -42,5 +44,5 @@
 			"match": "."
 		}
 	},
-	"scopeName": "embedded.html.string.template"
+	"scopeName": "meta.embedded.html.string.template"
 }
