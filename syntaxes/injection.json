@@ -21,7 +21,7 @@
 			]
 		},
 		"leading-html-element-template": {
-			"begin": "(?=<)",
+			"begin": "(?<=`)(?=<)",
 			"end": "(?=`)",
 			"contentName": "meta.embedded.html",
 			"patterns": [
