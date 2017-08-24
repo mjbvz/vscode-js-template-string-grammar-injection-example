@@ -8,4 +8,4 @@ html`<a>text</a>`
 `<a>text</a>` 
 ```
 
-![](docs/example.png)
+![](https://github.com/mjbvz/vscode-js-template-string-grammar-injection-example/raw/master/docs/example.png)

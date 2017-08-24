@@ -1,18 +1,18 @@
 {
-  "name": "markdown-fenced-codeblock-example-injection",
-  "displayName": "Markdown fenced code block example injection",
-  "description": "",
+  "name": "javascript-template-string-grammar-injection-example",
+  "displayName": "JavaScript template string grammar injection example",
+  "description": "Demonstrates how an extension can inject syntax highlighting for a specific language into a JavaScript template string",
   "version": "0.0.1",
   "publisher": "bierner",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/mjbvz/vscode-fenced-code-block-grammar-injection-example.git"
+    "url": "https://github.com/mjbvz/vscode-js-template-string-grammar-injection-example.git"
   },
   "bugs": {
-    "url": "https://github.com/mjbvz/vscode-fenced-code-block-grammar-injection-example/issues"
+    "url": "https://github.com/mjbvz/vscode-js-template-string-grammar-injection-example/issues"
   },
   "engines": {
-    "vscode": "^1.8.0"
+    "vscode": "^1.15.0"
   },
   "categories": [
     "Other"
@@ -31,5 +31,5 @@
       }
     ]
   },
-  "dependencies": {  }
+  "dependencies": { }
 }
