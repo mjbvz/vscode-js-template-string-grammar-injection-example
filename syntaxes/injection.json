@@ -33,6 +33,9 @@
 		"html-template-body": {
 			"patterns": [
 				{
+					"include": "source.ts#template-substitution-element"
+				},
+				{
 					"include": "text.html.basic"
 				},
 				{
